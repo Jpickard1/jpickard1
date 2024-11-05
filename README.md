@@ -1,8 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I’m Joshua Pickard, a PhD student at the University of Michigan, studying bioinformatics & digital biology for cellular reprogramming. I believe how we discover is as important as what we discover.
+I’m Joshua Pickard, a PhD student at the University of Michigan, studying bioinformatics & digital biology for cellular reprogramming. I believe how we discover is as important as what we discover. Current projects include:
 
-### 🔭 Current Projects
 - **LLM Powered Digital Biology:** AI is changing not only what we know about science but also how we do science. Automating digital workflows (information retrieval, document search, etc.) will accelerate how we work and is a focuse of my retrieval augmented chatbot [BRAD](https://github.com/Jpickard1/BRAD)
 - **Biomarker Observability:** recent experimental advancements will make data processing rather than acquisition the bottleneck in biological data science. Guided by observability, I am working on methods to identify new biomarkers in genomic signals.
 - **Higher Order Networks:** Biological data comes in unconventional formats and necessitates new representations and analysis algorithms. I build the [Hypergraph Analysis Toolbox](https://hypergraph-analysis-toolbox.readthedocs.io/en/latest/index.html) and develope new methods to analyze group interactions in the genome and beyond.
