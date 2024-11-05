@@ -7,11 +7,6 @@ I’m Joshua Pickard, a PhD student at the University of Michigan, studying bioi
 - **Biomarker Observability:** recent experimental advancements will make data processing rather than acquisition the bottleneck in biological data science. Guided by observability, I am working on methods to identify new biomarkers in genomic signals.
 - **Higher Order Networks:** Biological data comes in unconventional formats and necessitates new representations and analysis algorithms. I build the [Hypergraph Analysis Toolbox](https://hypergraph-analysis-toolbox.readthedocs.io/en/latest/index.html) and develope new methods to analyze group interactions in the genome and beyond.
 
-### 🌱 I’m Currently Learning
-- Advanced symbolic computation techniques to handle high-complexity expressions without excessive memory use.
-- Enhanced visualization techniques in Python, particularly with `matplotlib` and `seaborn` for clear, publication-quality graphs.
-- Improving SLURM job management for large-scale computational experiments.
-
 ---
 
 Thanks for stopping by my profile! Feel free to explore my repos and reach out (📫jpic@umich.edu) if you’re interested in discussing research or have a cool idea to share. 🚀
@@ -30,5 +25,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🌱 I’m Currently Learning
+- Advanced symbolic computation techniques to handle high-complexity expressions without excessive memory use.
+- Enhanced visualization techniques in Python, particularly with `matplotlib` and `seaborn` for clear, publication-quality graphs.
+- Improving SLURM job management for large-scale computational experiments.
+
 -->
 
