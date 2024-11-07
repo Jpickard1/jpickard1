@@ -2,7 +2,7 @@
 
 I’m Joshua Pickard, a PhD student at the University of Michigan, studying bioinformatics & digital biology for cellular reprogramming. I’m passionate about advancing *how* we conduct science as much as *what* we discover. Here’s what I’m working on:
 
-- **LLM Powered Digital Biology:** AI isn’t just changing what we know but how we work. My project [BRAD](https://github.com/Jpickard1/BRAD) leverages language models to automate workflows like information retrieval (online), software execution (local), and document search (RAG) to accelerate digital biology research.
+- **LLM Powered Digital Biology:** AI isn’t just changing what we know but how we work. My [BRAD](https://github.com/Jpickard1/BRAD) agentic chatbot leverages language models to automate workflows like information retrieval (online), software execution (local), and document search (RAG) to accelerate digital biology research.
 - **Biomarker Observability:** With recent and rapic advancements in experimental methods, data processing has become a bigger challenge than acquisition. I’m working on observability-based methods to identify meaningful biomarkers in genomic data.
 - **Higher Order Networks:** Biological data often needs unconventional analysis techniques. I develop methods and tools like the [Hypergraph Analysis Toolbox](https://hypergraph-analysis-toolbox.readthedocs.io/en/latest/index.html) to study group interactions within genomic networks and beyond.
 
