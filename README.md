@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I’m Joshua Pickard, a PhD student at the University of Michigan, studying bioinformatics & digital biology for cellular reprogramming. I’m passionate about advancing [*how* we conduct science](https://github.com/Jpickard1/jpickard1/wiki/Code-Standards) as much as *what* we discover 🚀. Here’s what I’m working on:
+I’m Joshua Pickard, a [PhD student](https://rajapakse.lab.medicine.umich.edu/home) at the University of Michigan, studying bioinformatics & [digital biology for cellular reprogramming](https://rajapakse.lab.medicine.umich.edu/twincell-blueprint). I’m passionate about advancing [*how* we conduct science](https://github.com/Jpickard1/jpickard1/wiki/Code-Standards) as much as *what* we discover 🚀. Here’s what I’m working on:
 
 - 🤖**LLM Powered Digital Biology:** AI isn’t just changing what we know but how we work. My [BRAD](https://github.com/Jpickard1/BRAD) agentic chatbot leverages language models to automate workflows like information retrieval (online), software execution (local), and document search (RAG) to accelerate digital biology research.
 - 🔍**Biomarker Observability:** With recent and rapic advancements in experimental methods, data processing has become a bigger challenge than acquisition. I’m working on observability-based methods to identify meaningful biomarkers in genomic data.
@@ -8,7 +8,7 @@ I’m Joshua Pickard, a PhD student at the University of Michigan, studying bioi
 
 ---
 
-Thanks for stopping by my profile! Feel free to explore my repositories and reach out (📫jpic@umich.edu) if you’re interested in discussing research or have a cool idea to share.
+Thanks for stopping by my profile! Feel free to explore my repositories and [reach out](https://www.linkedin.com/in/joshua-pickard-06540b1b2/) (📫jpic@umich.edu) if you’re interested in discussing research or have a cool idea to share.
 
 
 <!--
