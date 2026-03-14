@@ -17,8 +17,8 @@ I’m Joshua Pickard, a [Eric and Wendy Schmidt Center](https://www.ericandwendy
 - **Oct 2025** — Nominated for the U-M ProQuest Distinguished Dissertation Award by the Bioinformatics Graduate Program.
 - **Jun 2025** — Defended my [PhD thesis](https://medschool.umich.edu/department-news/joshua-pickard-phd-developed-computational-methods-and-tools-biomarker-discovery) at the University of Michigan.
 - **Mar 2025** — Nominated for the U-M Medical School Excellence in Teaching Award by the Bioinformatics Graduate Program.
-- **Sep 2024** - Our paper *Kronecker Product of Tensors and Hypergraphs: Structure and Dynamics* is available online in [*SIAM Journal of Matrix Analysis and Application (SIMAX)](https://epubs.siam.org/doi/10.1137/23M1592547)
-- **June 2023** - Our paper *HAT: Hypergraph Analysis Toolbox** is available online in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011190)
+- **Sep 2024** — Our paper *Kronecker Product of Tensors and Hypergraphs: Structure and Dynamics* is available online in [*SIAM Journal of Matrix Analysis and Application (SIMAX)](https://epubs.siam.org/doi/10.1137/23M1592547)
+- **June 2023** — Our paper *HAT: Hypergraph Analysis Toolbox** is available online in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011190)
 
 
 
