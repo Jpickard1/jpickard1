@@ -8,27 +8,20 @@ I’m Joshua Pickard, a [Eric and Wendy Schmidt Center](https://www.ericandwendy
 
 ---
 
+## 📰 News
+
+- **Jan 2026** — Organized the [AI4ID Symposium](https://www.eventbrite.com/e/ai4id-symposium-tickets-1782733266189) and led a primer session on AI architectures.
+- **Dec 2025** — Our paper *HIF: The Hypergraph Interchange Format for Higher-Order Networks* is available online in [*Network Science*](https://www.cambridge.org/core/journals/network-science/article/hif-the-hypergraph-interchange-format-for-higherorder-networks/8EE17F2BE27B52122DF7CC74E982C3C2).
+- **Oct 2025** — Our paper *Dynamic Sensor Selection for Biomarker Discovery* is available online in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2501324122)
+- **Sep 2025** — Started as a Postdoctoral Fellow at the [Eric and Wendy Schmidt Center at the Broad Institute](https://www.ericandwendyschmidtcenter.org/postdoc-fellows).
+- **Oct 2025** — Nominated for the U-M ProQuest Distinguished Dissertation Award by the Bioinformatics Graduate Program.
+- **Jun 2025** — Defended my [PhD thesis](https://medschool.umich.edu/department-news/joshua-pickard-phd-developed-computational-methods-and-tools-biomarker-discovery) at the University of Michigan.
+- **Mar 2025** — Nominated for the U-M Medical School Excellence in Teaching Award by the Bioinformatics Graduate Program.
+- **Sep 2024** - Our paper *Kronecker Product of Tensors and Hypergraphs: Structure and Dynamics* is available online in [*SIAM Journal of Matrix Analysis and Application (SIMAX)](https://epubs.siam.org/doi/10.1137/23M1592547)
+- **June 2023** - Our paper *HAT: Hypergraph Analysis Toolbox** is available online in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011190)
+
+
+
+---
+
 Thanks for stopping by my profile! Feel free to explore my repositories and [reach out](https://www.linkedin.com/in/joshua-pickard-06540b1b2/) (📫jpic@umich.edu) if you’re interested in discussing research or have a cool idea to share.
-
-
-<!--
-**Jpickard1/jpickard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### 🌱 I’m Currently Learning
-- Advanced symbolic computation techniques to handle high-complexity expressions without excessive memory use.
-- Enhanced visualization techniques in Python, particularly with `matplotlib` and `seaborn` for clear, publication-quality graphs.
-- Improving SLURM job management for large-scale computational experiments.
-
--->
-
