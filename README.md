@@ -18,7 +18,7 @@ Below you can find updates on my work and research areas.
 - **June 2025** — Defended my [PhD thesis](https://medschool.umich.edu/department-news/joshua-pickard-phd-developed-computational-methods-and-tools-biomarker-discovery) at the University of Michigan.
 - **May 2025** — Our paper *Automatic biomarker discovery and enrichment with BRAD* is available online in [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/41/5/btaf159/8125018)
 - **Mar. 2025** — Nominated for the U-M Medical School Excellence in Teaching Award by the Bioinformatics Graduate Program.
-- **Sep. 2024** — Our paper *Kronecker Product of Tensors and Hypergraphs: Structure and Dynamics* is available online in [*SIAM Journal of Matrix Analysis and Application (SIMAX)](https://epubs.siam.org/doi/10.1137/23M1592547)
+- **Sep. 2024** — Our paper *Kronecker Product of Tensors and Hypergraphs: Structure and Dynamics* is available online in [*SIAM Journal of Matrix Analysis and Application (SIMAX)*](https://epubs.siam.org/doi/10.1137/23M1592547)
 - **Aug. 2024** — Our paper *Continuous sepsis trajectory prediction using tensor-reduced physiological signals* is available online in [*Scientific Reports*](https://www.nature.com/articles/s41598-024-68901-x)
 - **June 2023** — Our paper *HAT: Hypergraph Analysis Toolbox** is available online in [*PLOS Computational Biology*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011190)
 - **Sep. 2022** — Our paper *Deciphering multi-way interactions in the human genome* is available online in [*Nature Communications*](https://www.nature.com/articles/s41467-022-32980-z)
