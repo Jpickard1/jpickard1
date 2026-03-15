@@ -1,8 +1,8 @@
-## Hi there 👋 Welcome to my GitHub!
+## Hi there 👋 Welcome to my Homepage!
 
 I'm Joshua Pickard, a [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org/) postdoc at the [Broad Institute](https://www.broadinstitute.org/) of Harvard and MIT. I work with the [Center for Integrated Solutions to Infectious Disease (CISID)](https://cisid.org/) and collaborators across Mass General Brigham and Harvard to develop control theory methods and AI-based digital twins of sepsis and crticial care patients.
 
-Previously, I did my grad school mentored by [Indika Rajapakse](https://rajapakse.lab.medicine.umich.edu/home) at the University of Michigan, studying [bioinformatics](https://medschool.umich.edu/departments/computational-medicine-bioinformatics) and [digital biology for cellular reprogramming](https://rajapakse.lab.medicine.umich.edu/twincell-blueprint). I'm passionate about advancing [*how* we conduct science](https://github.com/Jpickard1/jpickard1/wiki/Code-Standards) as much as *what* we discover 🚀.
+Previously, I trained with [Indika Rajapakse](https://rajapakse.lab.medicine.umich.edu/home) at the University of Michigan, studying [bioinformatics](https://medschool.umich.edu/departments/computational-medicine-bioinformatics) and [digital biology for cellular reprogramming](https://rajapakse.lab.medicine.umich.edu/twincell-blueprint). I am passionate about investigating dynamic biomedical systems across a wide range of data and scales 🚀.
 
 Below you can find updates on my work and research areas.
 
