@@ -10,18 +10,19 @@ Below you can find updates on my work and research areas.
 
 ## 📰 News
 
-- **Jan. 2026** — Organized the [AI4ID Symposium](https://www.eventbrite.com/e/ai4id-symposium-tickets-1782733266189) and led a primer session on AI architectures.
-- **Dec. 2025** — Our paper *HIF: The Hypergraph Interchange Format for Higher-Order Networks* is available online in [*Network Science*](https://www.cambridge.org/core/journals/network-science/article/hif-the-hypergraph-interchange-format-for-higherorder-networks/8EE17F2BE27B52122DF7CC74E982C3C2).
-- **Oct. 2025** — Our paper *Dynamic Sensor Selection for Biomarker Discovery* is available online in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2501324122)
-- **Sep. 2025** — Started as a Postdoctoral Fellow at the [Eric and Wendy Schmidt Center at the Broad Institute](https://www.ericandwendyschmidtcenter.org/postdoc-fellows).
-- **Oct. 2025** — Nominated for the U-M ProQuest Distinguished Dissertation Award by the Bioinformatics Graduate Program.
-- **June 2025** — Defended my [PhD thesis](https://medschool.umich.edu/department-news/joshua-pickard-phd-developed-computational-methods-and-tools-biomarker-discovery) at the University of Michigan.
-- **May 2025** — Our paper *Automatic biomarker discovery and enrichment with BRAD* is available online in [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/41/5/btaf159/8125018)
-- **Mar. 2025** — Nominated for the U-M Medical School Excellence in Teaching Award by the Bioinformatics Graduate Program.
-- **Sep. 2024** — Our paper *Kronecker Product of Tensors and Hypergraphs: Structure and Dynamics* is available online in [*SIAM Journal of Matrix Analysis and Application (SIMAX)*](https://epubs.siam.org/doi/10.1137/23M1592547)
-- **Aug. 2024** — Our paper *Continuous sepsis trajectory prediction using tensor-reduced physiological signals* is available online in [*Scientific Reports*](https://www.nature.com/articles/s41598-024-68901-x)
-- **June 2023** — Our paper *HAT: Hypergraph Analysis Toolbox** is available online in [*PLOS Computational Biology*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011190)
-- **Sep. 2022** — Our paper *Deciphering multi-way interactions in the human genome* is available online in [*Nature Communications*](https://www.nature.com/articles/s41467-022-32980-z)
+- **Mar. `26** — Our paper [*Structural Controllability of Large-Scale Hypergraphs*](https://arxiv.org/pdf/2603.19955) is available in preprint on arXiv.
+- **Jan. `26** — Organized the [AI4ID Symposium](https://www.eventbrite.com/e/ai4id-symposium-tickets-1782733266189) and led a primer session on AI architectures.
+- **Dec. `25** — Our paper *HIF: The Hypergraph Interchange Format for Higher-Order Networks* is available online in [*Network Science*](https://www.cambridge.org/core/journals/network-science/article/hif-the-hypergraph-interchange-format-for-higherorder-networks/8EE17F2BE27B52122DF7CC74E982C3C2).
+- **Oct. `25** — Our paper *Dynamic Sensor Selection for Biomarker Discovery* is available online in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2501324122)
+- **Sep. `25** — Started as a Postdoctoral Fellow at the [Eric and Wendy Schmidt Center at the Broad Institute](https://www.ericandwendyschmidtcenter.org/postdoc-fellows).
+- **Oct. `25** — Nominated for the U-M ProQuest Distinguished Dissertation Award by the Bioinformatics Graduate Program.
+- **June `25** — Defended my [PhD thesis](https://medschool.umich.edu/department-news/joshua-pickard-phd-developed-computational-methods-and-tools-biomarker-discovery) at the University of Michigan.
+- **May `25** — Our paper *Automatic biomarker discovery and enrichment with BRAD* is available online in [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/41/5/btaf159/8125018)
+- **Mar. `25** — Nominated for the U-M Medical School Excellence in Teaching Award by the Bioinformatics Graduate Program.
+- **Sep. `24** — Our paper *Kronecker Product of Tensors and Hypergraphs: Structure and Dynamics* is available online in [*SIAM Journal of Matrix Analysis and Application (SIMAX)*](https://epubs.siam.org/doi/10.1137/23M1592547)
+- **Aug. `24** — Our paper *Continuous sepsis trajectory prediction using tensor-reduced physiological signals* is available online in [*Scientific Reports*](https://www.nature.com/articles/s41598-024-68901-x)
+- **June `23** — Our paper *HAT: Hypergraph Analysis Toolbox** is available online in [*PLOS Computational Biology*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011190)
+- **Sep. `22** — Our paper *Deciphering multi-way interactions in the human genome* is available online in [*Nature Communications*](https://www.nature.com/articles/s41467-022-32980-z)
 
 ---
 
