@@ -10,7 +10,7 @@ Below you can find updates on my work and research areas.
 
 ## 📰 News
 
-- **Apr. `26** Our paper [*Data-Driven Tensor Decomposition Identification of Homogeneous Polynomial Dynamical Systems*](https://arxiv.org/pdf/2604.03508) is available in preprint.
+- **Apr. `26** — Our paper [*Data-Driven Tensor Decomposition Identification of Homogeneous Polynomial Dynamical Systems*](https://arxiv.org/pdf/2604.03508) is available in preprint.
 - **Mar. `26** — Our paper [*Structural Controllability of Large-Scale Hypergraphs*](https://arxiv.org/pdf/2603.19955) is available in preprint on arXiv.
 - **Jan. `26** — Organized the [AI4ID Symposium](https://www.eventbrite.com/e/ai4id-symposium-tickets-1782733266189) and led a primer session on AI architectures.
 - **Dec. `25** — Our paper *HIF: The Hypergraph Interchange Format for Higher-Order Networks* is available online in [*Network Science*](https://www.cambridge.org/core/journals/network-science/article/hif-the-hypergraph-interchange-format-for-higherorder-networks/8EE17F2BE27B52122DF7CC74E982C3C2).
