@@ -10,12 +10,13 @@ Below you can find updates on my work and research areas.
 
 ## 📰 News
 
+- **Apr. `26** Our paper [Data-Driven Tensor Decomposition Identification of Homogeneous Polynomial Dynamical Systems](https://arxiv.org/pdf/2604.03508) is available in preprint on arXiv.
 - **Mar. `26** — Our paper [*Structural Controllability of Large-Scale Hypergraphs*](https://arxiv.org/pdf/2603.19955) is available in preprint on arXiv.
 - **Jan. `26** — Organized the [AI4ID Symposium](https://www.eventbrite.com/e/ai4id-symposium-tickets-1782733266189) and led a primer session on AI architectures.
 - **Dec. `25** — Our paper *HIF: The Hypergraph Interchange Format for Higher-Order Networks* is available online in [*Network Science*](https://www.cambridge.org/core/journals/network-science/article/hif-the-hypergraph-interchange-format-for-higherorder-networks/8EE17F2BE27B52122DF7CC74E982C3C2).
 - **Oct. `25** — Our paper *Dynamic Sensor Selection for Biomarker Discovery* is available online in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2501324122)
-- **Sep. `25** — Started as a Postdoctoral Fellow at the [Eric and Wendy Schmidt Center at the Broad Institute](https://www.ericandwendyschmidtcenter.org/postdoc-fellows).
 - **Oct. `25** — Nominated for the U-M ProQuest Distinguished Dissertation Award by the Bioinformatics Graduate Program.
+- **Sep. `25** — Started as a Postdoctoral Fellow at the [Eric and Wendy Schmidt Center at the Broad Institute](https://www.ericandwendyschmidtcenter.org/postdoc-fellows).
 - **June `25** — Defended my [PhD thesis](https://medschool.umich.edu/department-news/joshua-pickard-phd-developed-computational-methods-and-tools-biomarker-discovery) at the University of Michigan.
 - **May `25** — Our paper *Automatic biomarker discovery and enrichment with BRAD* is available online in [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/41/5/btaf159/8125018)
 - **Mar. `25** — Nominated for the U-M Medical School Excellence in Teaching Award by the Bioinformatics Graduate Program.
