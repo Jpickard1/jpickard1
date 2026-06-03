@@ -9,7 +9,8 @@ Below you can find updates on my work and research areas.
 ---
 
 ## 📰 News
-
+- **May `26** — Chalk talk titled [Real-time Digital Twins for Sepsis Control](https://www.broadinstitute.org/talks/jian-ma-laboratory) at the Broad's Models Inference and Algorithms (MIA) seminar series
+- **May `26** — Flash talk titled *Real-time Digital Twins for Sepsis Control* at Harvard EECS Research Day
 - **Apr. `26** — Our paper [*Data-Driven Tensor Decomposition Identification of Homogeneous Polynomial Dynamical Systems*](https://arxiv.org/pdf/2604.03508) is available in preprint.
 - **Mar. `26** — Our paper [*Structural Controllability of Large-Scale Hypergraphs*](https://arxiv.org/pdf/2603.19955) is available in preprint on arXiv.
 - **Jan. `26** — Organized the [AI4ID Symposium](https://www.eventbrite.com/e/ai4id-symposium-tickets-1782733266189) and led a primer session on AI architectures.
