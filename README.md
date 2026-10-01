@@ -9,6 +9,7 @@ Below you can find updates on my work and research areas.
 ---
 
 ## 📰 News
+- **Sept. `26** Out paper [*Transcriptional landscape of direct reprogramming toward the hematopoietic lineage*](https://www.cell.com/iscience/fulltext/S2589-0042(26)02644-1) is now published in iScience.
 - **July `26** Our paper [*EHR-MPC: Inference-Time Control for Sepsis Treatment with Generative Patient Digital Twins*](https://arxiv.org/abs/2607.08793) has been accepted to Machine Learning for Healthcare (MLHC) 2026.
 - **May `26** — Chalk talk titled [Real-time Digital Twins for Sepsis Control](https://www.broadinstitute.org/talks/jian-ma-laboratory) at the Broad's Models Inference and Algorithms (MIA) seminar series
 - **May `26** — Flash talk titled *Real-time Digital Twins for Sepsis Control* at Harvard EECS Research Day
